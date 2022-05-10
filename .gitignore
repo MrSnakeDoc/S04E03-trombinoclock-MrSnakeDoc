@@ -1,0 +1,8 @@
+node_modules/
+.env
+.prettierignore
+.vscode/settings.json
+rest.http
+test.js
+Trombi.session.sql
+doc
